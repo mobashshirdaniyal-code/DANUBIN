@@ -1,2 +1,2 @@
 # DANUBIN
-A SMART DUSTBIN which automatically opens on bringing any thing in front of it
+<img src="img.jfif3" alt="Image" width="190px">
