@@ -2,7 +2,7 @@
 This is an automatic trashbin which opens on sensing any object
 
 ## COMPONENTS REQUIRED
-<ol type="1">
+<ol type="arrow">
     <li>ARDUINO UNO</li>
     <li>JUMPER WIRES</li>
     <li>ULTRASONIC SENSOR</li>
