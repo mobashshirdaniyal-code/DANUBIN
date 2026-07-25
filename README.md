@@ -21,3 +21,5 @@ This is an automatic trashbin which opens on sensing any object
 ### UPGRADED CIRCIUT 
 <img src="WhatsApp Image 2026-07-11 at 12.53.00 AM.jpeg" alt="Image" width="190px">
 
+## SCHEMATIC/CIRCUIT DIAGRAM
+<img src="Smart Trashbin.png" alt="Image" width="190px">
