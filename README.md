@@ -23,3 +23,7 @@ This is an automatic trashbin which opens on sensing any object
 
 ## SCHEMATIC / CIRCUIT DIAGRAM
 <img src="Smart Trashbin.png" alt="Image" width="300px">
+
+## GET IN TOUCH
+This is my YouTube channel link :
+https://www.youtube.com/@RADIATION-3OI
