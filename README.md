@@ -26,7 +26,7 @@ This is an automatic trashbin which opens on sensing any object
 
 ## GET CODE
 Code present in : 
- <a href="https://github.com/mobashshirdaniyal-code/DANUBIN/blob/main/smart_dustbin.ino">smart_trashbin</a>
+ <a href="https://github.com/mobashshirdaniyal-code/DANUBIN/blob/main/smart_dustbin.ino">smart_dustbin.ino</a>
 
 ## GET IN TOUCH
 This is my YouTube channel link :
